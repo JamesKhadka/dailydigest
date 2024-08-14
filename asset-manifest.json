@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dailydigest/static/css/main.cd2926a1.css",
+    "main.js": "/dailydigest/static/js/main.d9796eb5.js",
+    "static/js/453.b2157c12.chunk.js": "/dailydigest/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif": "/dailydigest/static/media/loading.1e23cc0d20f3bba7f9e6.gif",
+    "index.html": "/dailydigest/index.html",
+    "main.cd2926a1.css.map": "/dailydigest/static/css/main.cd2926a1.css.map",
+    "main.d9796eb5.js.map": "/dailydigest/static/js/main.d9796eb5.js.map",
+    "453.b2157c12.chunk.js.map": "/dailydigest/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2926a1.css",
+    "static/js/main.d9796eb5.js"
+  ]
+}
